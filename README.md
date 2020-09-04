@@ -1,6 +1,10 @@
 # OSTEP Translations
 
-本书是**《Operating Systems: Three Easy Pieces》**的中文翻译版本，中文书名叫《操作系统导论》。来自：https://github.com/remzi-arpacidusseau/ostep-translations 
+本书是**《Operating Systems: Three Easy Pieces》**的中文翻译版本，中文书名叫《操作系统导论》。来自：https://github.com/remzi-arpacidusseau/ostep-translations 或者
+
+http://pages.cs.wisc.edu/~remzi/OSTEP/Chinese/
+
+https://github.com/EmbedXj/OperatingSystems.ThreeEasyPieces
 
 **《Operating Systems: Three Easy Pieces》**的英文版本：http://pages.cs.wisc.edu/~remzi/OSTEP/
 
